@@ -14,3 +14,11 @@ p{
 div{
     border: solid red 1px;
 }
+
+footer{
+    background-color: black;
+}
+
+li{
+    color: red;
+}
